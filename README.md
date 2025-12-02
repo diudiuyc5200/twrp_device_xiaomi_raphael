@@ -1,4 +1,4 @@
-# TWRP device tree for Redmi K20 Pro (raphael)
+# Android device tree for Xiaomi Mi9 Pro 5G (crux)
 
 ```
 #
